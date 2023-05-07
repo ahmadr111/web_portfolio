@@ -1,0 +1,13 @@
+touch .gitignore
+git config -m user.naem "ahmad raza raza"
+git config user.email "ahamdraza5150@gmail.com
+git init
+git add.
+git commit -m "initial commit"
+ssh-keygen -t ed25519 -C "ahmadraza5160@gmail.com"
+tail <key? Add this key to your github Account
+git remote add origin <ssh url.git>
+get push origin master
+
+
+
