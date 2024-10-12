@@ -1,10 +1,12 @@
 touch .gitignore
 git config -m user.naem "ahmad raza raza"
 git config user.email "ahamdraza5150@gmail.com
+git config --global --add safe.directory 'F:/python tutorial cwh'
 git init
 git add.
 git commit -m "initial commit"
 ssh-keygen -t ed25519 -C "ahmadraza5160@gmail.com"
+cat copy only url (Your public key has been saved in /c/Users/Home/.ssh/id_ed25519.pub)
 tail <key? Add this key to your github Account
 git remote add origin <ssh url.git>
 get push origin master
